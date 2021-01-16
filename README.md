@@ -1,2 +1,3 @@
 # 101
-this is test repository
+This is test repository about Github.
+
